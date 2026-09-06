@@ -1,0 +1,13 @@
+config-generator 0.3.17 source snapshot
+
+This archive was reconstructed from the exact Python sources and documentation
+installed by config-generator_0.3.17-1_all.deb.
+
+Contents:
+- cascadegen/*.py    application source code
+- config-generator    launcher
+- README.md
+- CHANGELOG.md
+- debian/control.txt package metadata from the .deb
+
+No __pycache__ or compiled .pyc files are included.

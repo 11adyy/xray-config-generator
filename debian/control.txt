@@ -1,0 +1,7 @@
+Package: config-generator
+Version: 0.3.17-1
+Architecture: all
+Maintainer: Local package <root@localhost>
+Depends: python3 (>= 3.11), python3-cryptography, ca-certificates
+Description: Ncurses generator and 3x-ui deployer for Xray VLESS+REALITY cascades
+ Interactive CLI/TUI for building, checking and deploying Xray cascades through 3x-ui.
